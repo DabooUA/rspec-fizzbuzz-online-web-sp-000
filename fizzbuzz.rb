@@ -7,7 +7,6 @@ def fizzbuzz
     "FizzBuzz"
   else
 
-
   end
 end
 
